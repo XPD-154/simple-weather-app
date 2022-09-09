@@ -50,7 +50,7 @@ function api_call($googleApiUrl){
 }
 
 //API key
-$apiKey = "04eba07eb303681fdc6f93a68f562fb6";
+$apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 $weather = "";
 
 //check if city name has been submitted
